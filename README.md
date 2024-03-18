@@ -1,7 +1,9 @@
 ### Hi！ I'm apple115, emacser and linuxer 
-- 🌱 I’m currently learning rust or python
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+- 🌱 I’m currently learning rust or python
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apple115)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **apple115/apple115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
