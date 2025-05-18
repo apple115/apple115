@@ -1,6 +1,6 @@
 ### Hi！ I'm apple115, emacser and linuxer 
 
-- 🌱 I’m currently learning rust or python
+- 🌱 I’m currently learning rust and clojure
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apple115)](https://github.com/anuraghazra/github-readme-stats)
 
